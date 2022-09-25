@@ -1,3 +1,4 @@
+Kevin Li
 # ![Copy of CanSat 2022-2023 Software Training Task](https://user-images.githubusercontent.com/65178913/192123190-cb7e8ef6-cb4b-4cc5-bf70-2b39e3737aaf.png)
 Lines 1-12 are defining variables.
 
